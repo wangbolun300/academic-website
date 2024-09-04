@@ -1,5 +1,5 @@
 ---
-title: "Fast and Exact Root Parity for Continuous Collision Detection"
+title: "A Large-scale Benchmark and an Inclusion-based Algorithm for Continuous Collision Detection"
 authors:
 - admin
 - Zachary Ferguson
