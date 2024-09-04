@@ -61,6 +61,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
+        count: 30
     design:
       view: citation
   # - block: collection
