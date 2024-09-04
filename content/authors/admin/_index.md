@@ -59,7 +59,7 @@ education:
     date_end: 2020-09-17
     summary: |
       Supervised by [Prof. Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html).
-  - area: BSc Mathematics
+  - area: BSc in Mathematics
     institution: Beihang University
     date_start: 2012-09-01
     date_end: 2016-07-01
