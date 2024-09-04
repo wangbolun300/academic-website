@@ -21,11 +21,13 @@ publishDate: "2022-10-01T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
+
+
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Physics: Conference Series 2068 (1), 012010"
 publication_short: ""
 
-abstract: B-splines are widely used in the fields of reverse engineering and computer-aided design, due to their superior properties. Traditional B-spline surface interpolation algorithms usually assume regularity of the data distribution. In this paper, we introduce a novel B-spline surface interpolation algorithm: KPI, which can interpolate sparsely and non-uniformly distributed data points. As a two-stage algorithm, our method generates the dataset out of the sparse data using Kriging, and uses the proposed KPI (Key-Point Interpolation) method to generate the control points. Our algorithm can be extended to higher dimensional data interpolation, such as reconstructing dynamic surfaces. We apply the method to interpolating the temperature of Shanxi Province. The generated dynamic surface accurately interpolates the temperature data provided by the weather stations, and the preserved dynamic characteristics can be useful …
+abstract: B-splines are widely used in the fields of reverse engineering and computer-aided design, due to their superior properties. Traditional B-spline surface interpolation algorithms usually assume regularity of the data distribution. In this paper, we introduce a novel B-spline surface interpolation algorithm - KPI, which can interpolate sparsely and non-uniformly distributed data points. As a two-stage algorithm, our method generates the dataset out of the sparse data using Kriging, and uses the proposed KPI (Key-Point Interpolation) method to generate the control points. Our algorithm can be extended to higher dimensional data interpolation, such as reconstructing dynamic surfaces. We apply the method to interpolating the temperature of Shanxi Province. The generated dynamic surface accurately interpolates the temperature data provided by the weather stations, and the preserved dynamic characteristics can be useful …
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
