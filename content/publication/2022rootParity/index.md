@@ -1,20 +1,20 @@
 ---
-title: "Scattered points interpolation with globally smooth b-spline surface using iterative knot insertion"
+title: "Fast and Exact Root Parity for Continuous Collision Detection"
 authors:
-- Xin Jiang
 - admin
-- Guanying Huo
-- Cheng Su
-- Dong-Ming Yan
-- Zhiming Zheng
+- Zachary Ferguson
+- Xin Jiang
+- Marco Attene
+- Daniele Panozzo
+- Teseo Schneider
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2022-03-01T00:00:00Z"
+date: "2022-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-03-01T00:00:00Z"
+publishDate: "2022-04-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,10 +22,11 @@ publishDate: "2022-03-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computer-Aided Design 148, 103244"
+publication: "Computer Graphics Forum 41 (2), 355-363"
 publication_short: ""
 
-abstract: We introduce a new method to interpolate scattered 3D data points with a single B-spline surface patch which is globally smooth. Given a set of scattered 3D data points and their corresponding parametrization, our method first constructs a set α of B-spline bases using a weighted strategy, and inserts knots to the knot vectors based on α. Then, the knot insertion procedure is iterated until a set β of B-spline bases exists, which indicates the existence of the interpolation surface. Finally, by applying the fairing energy minimizing with interpolation constraints, a globally smooth B-spline surface which interpolates the data points can be produced. Experimental results demonstrate that the generated B-spline surfaces often have fewer control points than those of traditional methods, while keeping the scattered data points interpolated accurately. 
+abstract: We introduce the first exact root parity counter for continuous collision detection (CCD). That is, our algorithm computes the parity (even or odd) of the number of roots of the cubic polynomial arising from a CCD query. We note that the parity is unable to differentiate between zero (no collisions) and the rare case of two roots (collisions).
+Our method does not have numerical parameters to tune, has a performance comparable to efficient approximate algorithms, and is exact. We test our approach on a large collection of synthetic tests and real simulations, and we demonstrate that it can be easily integrated into existing simulators.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -37,8 +38,8 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://github.com/wangbolun300/Scattered_Points_Interpolation/blob/master/fig/BSplineInterpolation-compressed.pdf
-url_code: 'https://github.com/wangbolun300/Scattered_Points_Interpolation'
+url_pdf: https://cims.nyu.edu/gcl/papers/2022-RootParityCCD.pdf
+url_code: 'https://github.com/Continuous-Collision-Detection/Exact-Root-Parity-CCD'
 url_dataset: ''
 url_poster: ''
 url_project: ''

@@ -1,20 +1,21 @@
 ---
-title: "Scattered points interpolation with globally smooth b-spline surface using iterative knot insertion"
+title: "Fast and Exact Root Parity for Continuous Collision Detection"
 authors:
-- Xin Jiang
 - admin
-- Guanying Huo
-- Cheng Su
-- Dong-Ming Yan
-- Zhiming Zheng
+- Zachary Ferguson
+- Teseo Schneider
+- Xin Jiang
+- Marco Attene
+- Daniele Panozzo
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2022-03-01T00:00:00Z"
+date: "2022-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-03-01T00:00:00Z"
+publishDate: "2022-10-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,10 +23,10 @@ publishDate: "2022-03-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computer-Aided Design 148, 103244"
+publication: "ACM Transactions on Graphics (TOG) 40 (5), 1-16"
 publication_short: ""
 
-abstract: We introduce a new method to interpolate scattered 3D data points with a single B-spline surface patch which is globally smooth. Given a set of scattered 3D data points and their corresponding parametrization, our method first constructs a set α of B-spline bases using a weighted strategy, and inserts knots to the knot vectors based on α. Then, the knot insertion procedure is iterated until a set β of B-spline bases exists, which indicates the existence of the interpolation surface. Finally, by applying the fairing energy minimizing with interpolation constraints, a globally smooth B-spline surface which interpolates the data points can be produced. Experimental results demonstrate that the generated B-spline surfaces often have fewer control points than those of traditional methods, while keeping the scattered data points interpolated accurately. 
+abstract: We introduce a large-scale benchmark for continuous collision detection (CCD) algorithms, composed of queries manually constructed to highlight challenging degenerate cases and automatically generated using existing simulators to cover common cases. We use the benchmark to evaluate the accuracy, correctness, and efficiency of state-of-the-art continuous collision detection algorithms, both with and without minimal separation.We discover that, despite the widespread use of CCD algorithms, existing algorithms are (1) correct but impractically slow; (2) efficient but incorrect, introducing false negatives that will lead to interpenetration; or (3) correct but over conservative, reporting a large number of false positives that might lead to inaccuracies when integrated in a simulator.By combining the seminal interval root finding algorithm introduced by Snyder in 1992 with modern predicate design techniques, we propose a simple and efficient CCD algorithm. This algorithm is competitive with state-of-the-art methods in terms of runtime while conservatively reporting the time of impact and allowing explicit tradeoff between runtime efficiency and number of false positives reported.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -37,8 +38,8 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://github.com/wangbolun300/Scattered_Points_Interpolation/blob/master/fig/BSplineInterpolation-compressed.pdf
-url_code: 'https://github.com/wangbolun300/Scattered_Points_Interpolation'
+url_pdf: https://continuous-collision-detection.github.io/tight_inclusion/
+url_code: 'https://github.com/Continuous-Collision-Detection/Tight-Inclusion'
 url_dataset: ''
 url_poster: ''
 url_project: ''
