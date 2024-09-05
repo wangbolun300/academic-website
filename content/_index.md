@@ -74,6 +74,17 @@ sections:
     design:
       view: article-grid
       columns: 3
+  - block: collection
+  id: teaching
+  content:
+    title: Teaching Experience
+    filters:
+      folders:
+        - teaching
+      featured_only: false
+  # design:
+  #   view: article-grid
+  #   columns: 5
   # - block: collection
   #   id: news
   #   content:
