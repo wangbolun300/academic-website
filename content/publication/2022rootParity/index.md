@@ -44,7 +44,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.bilibili.com/video/BV12U4y1U7nV/?spm_id_from=333.337.search-card.all.click'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
