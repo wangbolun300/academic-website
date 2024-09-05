@@ -10,7 +10,7 @@ math: false
 # image:
 #   caption: 'Embed rich media such as videos and LaTeX math'
 ---
-In the fall semester of 2022, I served as a teaching assistant for Professor Helmut Pottmann’s course "Geometry Processing" in VCC, KAUST, Saudi Arabia. My responsibilities were to mark homework and help students with coding.
+In the fall semester of 2022, I served as a teaching assistant for Professor [Helmut Pottmann's](https://www.geometrie.tuwien.ac.at/pottmann/) course "Geometry Processing" in VCC, KAUST, Saudi Arabia. My responsibilities were to mark homework and help students with coding.
 <!-- 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
