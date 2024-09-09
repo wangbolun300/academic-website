@@ -13,7 +13,7 @@ location: Online
 #   country: Sydney
 
 summary: 'This is a 40-minute Chinese online lecture on the paper [Rectifying Strip Patterns](https://wangbolun300.github.io/event/2023sigasia/). 这是SIGGRAPH2023会议报告 Rectifying Strip Patterns (https://wangbolun300.github.io/event/2023sigasia/) 的中文版报告，全长40分钟。
-一个平直的不可延伸材料的条带（例如木条、金属条等）可以沿着任意空间曲线弯曲。在微分几何中，可以将这样的条带描述为从切面条带。建筑等应用场景倾向于使用简单的元素制造复杂的形状，从而产生了利用从切面条带进行复杂曲面构建的需求。本次报告将介绍一个用于设计从切面带的计算工具，使得这些条带可以满足特定应用（例如网格壳结构或遮光系统）所需的约束。我们的方法包括从切面带的离散模型、离散水平集公式以及基于优化的约束网格设计和编辑方法。我们还分析节点处的几何性质，并提出构建无挠网格壳节点的一个解决方案。"
+一个平直的不可延伸材料的条带（例如木条、金属条等）可以沿着任意空间曲线弯曲。在微分几何中，可以将这样的条带描述为从切面条带。建筑等应用场景倾向于使用简单的元素制造复杂的形状，从而产生了利用从切面条带进行复杂曲面构建的需求。本次报告将介绍一个用于设计从切面带的计算工具，使得这些条带可以满足特定应用（例如网格壳结构或遮光系统）所需的约束。我们的方法包括从切面带的离散模型、离散水平集公式以及基于优化的约束网格设计和编辑方法。我们还分析节点处的几何性质，并提出构建无挠网格壳节点的一个解决方案。'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
