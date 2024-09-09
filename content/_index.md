@@ -51,7 +51,7 @@ sections:
           - publication
         featured_only: true
     design:
-      view: card
+      view: article-grid
       columns: 5
   - block: collection
     content:
