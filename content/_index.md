@@ -51,7 +51,7 @@ sections:
           - publication
         featured_only: true
     design:
-      view: article-grid
+      view: card
       columns: 5
   - block: collection
     content:
@@ -64,6 +64,7 @@ sections:
         count: 30
     design:
       view: citation
+      fill_image: false
   - block: collection
     id: talks
     content:
