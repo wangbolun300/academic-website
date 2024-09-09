@@ -46,10 +46,12 @@ sections:
     id: papers
     content:
       title: Featured Publications
+      count: 100
       filters:
         folders:
           - publication
         featured_only: true
+        count: 100
     design:
       view: article-grid
       columns: 5
