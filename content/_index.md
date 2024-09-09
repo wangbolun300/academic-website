@@ -52,7 +52,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 5
+      columns: 6
   - block: collection
     content:
       title: Recent Publications
