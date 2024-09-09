@@ -24,7 +24,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: the University of RWTH Aachen
+  - name: RWTH Aachen University
     url: https://rwth-aachen.de/go/id/a/?lidx=1
 
 # Social network links
@@ -67,7 +67,7 @@ education:
       Majored in Information and Computataional Science.
 work:
   - position: Postdoctoral Researcher
-    company_name: the University of RWTH Aachen
+    company_name: RWTH Aachen University
     company_url: ''
     company_logo: ''
     date_start: 2024-07-01
@@ -165,4 +165,4 @@ work:
 
 ## About Me
 
-I am working with Prof. Leif Kobbelt as a postdoctoral researcher at the University of RWTH Aachen, Germany. Before that, I worked with Prof. Helmut Pottmann as a Postdoc at the Visual Computing Center (VCC) of King Abdullah University of Science and Technology (KAUST). I obtained my Ph.D. in Fundamental Mathematics from Beihang University in 2022 under the supervision of Prof. Zhiming Zheng and Prof. Xin Jiang. During 2019-2020, I worked as a visiting student under the supervision of Prof. Daniele Panozzo at New York University. I received my B.S. degree from Beihang University in 2016. My research interests are in computer graphics, geometric modeling, geometry processing, and discrete differential geometry.
+I am working with Prof. Leif Kobbelt as a postdoctoral researcher at RWTH Aachen University, Germany. Before that, I worked with Prof. Helmut Pottmann as a Postdoc at the Visual Computing Center (VCC) of King Abdullah University of Science and Technology (KAUST). I obtained my Ph.D. in Fundamental Mathematics from Beihang University in 2022 under the supervision of Prof. Zhiming Zheng and Prof. Xin Jiang. During 2019-2020, I worked as a visiting student under the supervision of Prof. Daniele Panozzo at New York University. I received my B.S. degree from Beihang University in 2016. My research interests are in computer graphics, geometric modeling, geometry processing, and discrete differential geometry.

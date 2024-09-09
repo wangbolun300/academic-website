@@ -1,6 +1,6 @@
 ---
 title: Advanced Algebra
-summary: Teaching Assistant in Prof. [Meng Zhou's](https://baike.sogou.com/v148620494.htm)  Advanced Algebra course in Beihang University.
+summary: Teaching Assistant in Prof. [Meng Zhou's](https://baike.sogou.com/v148620494.htm)  Advanced Algebra course at Beihang University.
 date: 2016-09-01
 date_end: '2017-01-15'
 type: docs
@@ -10,7 +10,7 @@ math: false
 # image:
 #   caption: 'Embed rich media such as videos and LaTeX math'
 ---
-In the fall semester of 2016, I served as a teaching assistant for Professor [Meng Zhou's (周梦)](https://baike.sogou.com/v148620494.htm) course "Advanced Algebra" in the Honor College, Beihang University, China. My responsibilities were to give exercise lessons and mark homework twice a week.
+In the fall semester of 2016, I served as a teaching assistant for Professor [Meng Zhou's (周梦)](https://baike.sogou.com/v148620494.htm) course "Advanced Algebra" at the Honor College, Beihang University, China. My responsibilities were to give exercise lessons and mark homework twice a week.
 <!-- 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
