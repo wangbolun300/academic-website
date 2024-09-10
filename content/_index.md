@@ -78,6 +78,7 @@ sections:
     design:
       view: article-grid
       columns: 3
+      
   # design:
   #   view: article-grid
   #   columns: 5
