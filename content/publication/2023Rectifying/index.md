@@ -42,7 +42,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'TODO'
+url_video: 'https://www.bilibili.com/video/BV13v46exEYV/?vd_source=ea032a24810215eccf5ba6fe24f50cf1'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -47,7 +47,7 @@ image:
 url_pdf: https://github.com/wangbolun300/RectifyingStripPatterns/blob/main/data/RectifyingPatternsLowRes.pdf
 url_code: 'https://github.com/wangbolun300/RectifyingStripPatterns'
 # url_slides: 'https://slideshare.net'
-url_video: 'todo'
+url_video: 'https://www.bilibili.com/video/BV13v46exEYV/?vd_source=ea032a24810215eccf5ba6fe24f50cf1'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
