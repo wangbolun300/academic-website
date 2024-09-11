@@ -54,7 +54,7 @@ url_video: 'https://www.bilibili.com/video/BV13v46exEYV/?vd_source=ea032a2481021
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: "" 
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
