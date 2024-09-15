@@ -34,14 +34,14 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://github.com/wangbolun300/WebsViaPropagation/blob/master/data/websViaPropagation.pdf'
 url_code: 'https://github.com/wangbolun300/WebsViaPropagation'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'TODO'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
