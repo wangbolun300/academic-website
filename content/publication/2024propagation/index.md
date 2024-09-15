@@ -19,7 +19,7 @@ publishDate: "2024-09-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computer-Aided Design (accepted)"
+publication: "Computer-Aided Design, 178, 103800"
 publication_short: ""
 
 abstract: Complex architectural structures may be built in a simple and cost-effective way if their geometry respects the fabrication constraints. Examples of such structures are provided by gridshells that are built from straight and flat slats which are bent on site so that they become tangential or normal to the design surface. Tangential slats follow geodesic curves on the surface, while normal slats are attached along asymptotic curves. Extending work by Frei Otto, Julius Natterer and others, who placed the slats tangentially, Eike Schling proposed structures which also contain slats normal to the reference surface. In the present paper we address those gridshells that consist of three families of bent elements, either tangential or normal to the design surface, and are arranged in a  triangular web. We propose algorithms for the computational design of such webs that start from a boundary strip and propagate it, partially under additional guidance, to an entire web. 
